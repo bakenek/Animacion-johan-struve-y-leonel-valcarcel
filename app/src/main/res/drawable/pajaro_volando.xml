@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/pngegg_01"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_02"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_03"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_04"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_05"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_06"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_07"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_08"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_09"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_10"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_11"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_12"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_13"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_14"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_15"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_16"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_17"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_18"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_19"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_20"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_21"
+        android:duration="75"/>
+    <item android:drawable="@drawable/pngegg_22"
+        android:duration="75"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</animation-list>
+
+
+
